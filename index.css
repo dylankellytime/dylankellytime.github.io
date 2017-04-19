@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background: #00ECB9;
+    background: #FF8C00;
   font-family: sans-serif;
   font-weight: 100;
 }
@@ -24,18 +24,23 @@ h1{
 #clockdiv > div{
     padding: 10px;
     border-radius: 3px;
-    background: #00BF96;
+    background: #f754ff;
     display: inline-block;
 }
 
 #clockdiv div > span{
     padding: 15px;
     border-radius: 3px;
-    background: #00816A;
+    background: #FF69B4;
     display: inline-block;
 }
 
 .smalltext{
     padding-top: 5px;
     font-size: 16px;
+}
+
+#clockwrapper {
+  width: 50%;
+  margin: 0 auto;
 }
