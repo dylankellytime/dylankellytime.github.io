@@ -1,4 +1,4 @@
-var deadline = 'May 28 2017';
+var deadline = 'May 26 2017';
 
 function initializeClock(id, endtime){
   var clock = document.getElementById(id);
